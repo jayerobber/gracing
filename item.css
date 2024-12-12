@@ -338,15 +338,14 @@ background: linear-gradient(to bottom, #8b0000, #5c0000);
 }
 
 .dropdown-content a {
-  color: black;
+  color: white;
   padding: 10px 30px;
   text-decoration: none;
   display: block;
   
 }
 
-.dropdown-content a:hover {background-color: #172808
-                          color: white;}
+.dropdown-content a:hover {background-color: #172808}
 
 .dropdown:hover .dropdown-content {
   display: block;
