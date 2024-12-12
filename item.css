@@ -345,7 +345,8 @@ background: linear-gradient(to bottom, #8b0000, #5c0000);
   
 }
 
-.dropdown-content a:hover {background-color: #172808}
+.dropdown-content a:hover {background-color: #172808
+                          color: black;}
 
 .dropdown:hover .dropdown-content {
   display: block;
